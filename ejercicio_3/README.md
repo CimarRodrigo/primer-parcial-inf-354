@@ -7,4 +7,4 @@
 ## Discretizacion
 ![20px](./Imgs/Discretizacion.png)
 ## Normalizacion
-![20px](./Imgs/Normalizacion.png)
+![20px](./Imgs/Normalizar.png)
